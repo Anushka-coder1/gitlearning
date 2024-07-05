@@ -1,4 +1,7 @@
 # gitlearning
 i am learning git
 <br>
-author anushka verma
+author anushka verma - it's us
+
+ 
+ 
